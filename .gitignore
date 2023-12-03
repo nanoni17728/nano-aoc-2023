@@ -1,3 +1,6 @@
+# Tup database
+.tup/
+
 # Prerequisites
 *.d
 
